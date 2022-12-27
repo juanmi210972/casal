@@ -1,0 +1,280 @@
+/*! CSS Used from: Embedded */
+a:where(:not(.wp-element-button)){text-decoration:underline;}
+/*! CSS Used from: https://casal-las-palmeras-de-canyelles.es/wp-content/plugins/divi-mobile/css/divi-mobile-stop-stacking.min.css?ver=6.1.1 ; media=all */
+@media all{
+@media (max-width:980px){
+.et_pb_gutters3 .et_pb_section .et_pb_row.divi-mobile-stop-stacking-row>.et_pb_column{margin-right:5.5%!important;}
+.et_pb_gutters3 #et-boc .et-l .et_pb_section .et_pb_row.divi-mobile-stop-stacking-row>.et_pb_column.et_pb_column_1_2,.et_pb_gutters3 .et_pb_section .et_pb_row.divi-mobile-stop-stacking-row>.et_pb_column.et_pb_column_1_2{width:47.25%!important;}
+}
+}
+/*! CSS Used from: Embedded */
+a,div,img,li,span,ul{margin:0;padding:0;border:0;outline:0;font-size:100%;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;vertical-align:baseline;background:transparent;}
+ul{list-style:none;}
+:focus{outline:0;}
+nav{display:block;}
+a{color:#2ea3f2;}
+a,a:hover{text-decoration:none;}
+img{max-width:100%;height:auto;}
+.et-l--header ul{list-style-type:disc;padding:0 0 23px 1em;line-height:26px;}
+*{-webkit-box-sizing:border-box;box-sizing:border-box;}
+.mobile_menu_bar:before{font-family:ETmodules!important;speak:none;font-style:normal;font-weight:400;-webkit-font-feature-settings:normal;font-feature-settings:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-shadow:0 0;direction:ltr;}
+.et_pb_module.et_pb_text_align_left{text-align:left;}
+.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0;}
+.et_pb_css_mix_blend_mode_passthrough{mix-blend-mode:unset!important;}
+.et_pb_module_inner{position:relative;}
+.et_pb_module{position:relative;background-size:cover;background-position:50%;background-repeat:no-repeat;}
+.et_multi_view_hidden_image{display:none!important;}
+.et_multi_view_image__loading{visibility:hidden;}
+.et_pb_module{-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-duration:.2s;animation-duration:.2s;}
+@media (min-width:981px){
+.et_pb_section div.et_pb_row .et_pb_column .et_pb_module:last-child{margin-bottom:0;}
+}
+@media (max-width:980px){
+.et_pb_column .et_pb_module{margin-bottom:30px;}
+.et_pb_row .et_pb_column .et_pb_module:last-child{margin-bottom:0;}
+}
+/*! CSS Used from: Embedded */
+@media (min-width:981px){
+.et_pb_gutters3 .et_pb_column{margin-right:5.5%;}
+.et_pb_gutters3 .et_pb_column_1_2{width:47.25%;}
+.et_pb_gutters3 .et_pb_column_1_2 .et_pb_module{margin-bottom:5.82%;}
+}
+.et_pb_column{float:left;background-size:cover;background-position:50%;position:relative;z-index:2;min-height:1px;}
+.et_pb_column--with-menu{z-index:3;}
+.et_pb_column{background-size:cover;background-position:50%;background-repeat:no-repeat;}
+@media (max-width:980px){
+.et_pb_column{width:100%;margin-bottom:30px;}
+}
+@media (max-width:479px){
+.et_pb_column{width:100%!important;}
+}
+.et_pb_image{margin-left:auto;margin-right:auto;line-height:0;}
+.et_pb_image{display:block;}
+.et_pb_image .et_pb_image_wrap{display:inline-block;position:relative;max-width:100%;}
+.et_pb_image img{position:relative;}
+.et-menu li{display:inline-block;font-size:14px;padding-right:22px;}
+.et-menu>li:last-child{padding-right:0;}
+.et-menu a{color:rgba(0,0,0,.6);text-decoration:none;display:block;position:relative;}
+.et-menu a,.et-menu a:hover{-webkit-transition:all .4s ease-in-out;transition:all .4s ease-in-out;}
+.et-menu a:hover{opacity:.7;}
+.et-menu li>a{padding-bottom:29px;word-wrap:break-word;}
+.et_pb_menu__wrap .mobile_menu_bar{-webkit-transform:translateY(3%);transform:translateY(3%);}
+.et_pb_menu__wrap .mobile_menu_bar:before{top:0;}
+.et_pb_menu__logo{overflow:hidden;}
+.et_pb_menu__logo img{display:block;}
+@media (max-width:980px){
+.et-menu{display:none;}
+.et_mobile_nav_menu{display:block;margin-top:-1px;}
+}
+.et_pb_menu .et-menu-nav,.et_pb_menu .et-menu-nav>ul{float:none;}
+.et_pb_menu .et-menu-nav>ul{padding:0!important;line-height:1.7em;}
+.et_pb_menu_inner_container{position:relative;}
+.et_pb_menu .et_pb_menu__wrap{-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;-ms-flex-wrap:wrap;flex-wrap:wrap;opacity:1;}
+.et_pb_menu .et_pb_menu__menu{-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;}
+.et_pb_menu .et_pb_menu__menu,.et_pb_menu .et_pb_menu__menu>nav,.et_pb_menu .et_pb_menu__menu>nav>ul{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;}
+.et_pb_menu .et_pb_menu__menu>nav>ul{-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;}
+.et_pb_menu .et_pb_menu__menu>nav>ul>li{position:relative;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;margin:0;}
+.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul{padding:0!important;}
+.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul>li{margin-top:8px;}
+.et_pb_menu--without-logo .et_pb_menu__menu>nav>ul>li>a{padding-bottom:8px;}
+.et_pb_menu .et-menu{margin-left:-11px;margin-right:-11px;}
+.et_pb_menu .et-menu>li{padding-left:11px;padding-right:11px;}
+.et_pb_menu--style-left_aligned .et_pb_menu_inner_container{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:stretch;-ms-flex-align:stretch;align-items:stretch;}
+.et_pb_menu--style-left_aligned .et_pb_menu__logo-wrap{-webkit-box-flex:0;-ms-flex:0 1 auto;flex:0 1 auto;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+.et_pb_menu--style-left_aligned .et_pb_menu__logo{margin-right:30px;}
+@media (max-width:980px){
+.et_pb_menu--style-left_aligned .et_pb_menu_inner_container{-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+.et_pb_menu--style-left_aligned .et_pb_menu__wrap{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;}
+.et_pb_menu .et_pb_menu__menu{display:none;}
+.et_pb_menu .et_mobile_nav_menu{float:none;margin:0 6px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}
+.et_pb_menu .et_mobile_menu{top:100%;padding:5%;}
+.et_pb_menu .et_mobile_menu{list-style:none!important;text-align:left;}
+}
+.nav li{position:relative;line-height:1em;}
+.nav li:hover{visibility:inherit;}
+.et_mobile_menu li a{font-size:14px;-webkit-transition:opacity .2s ease-in-out,background-color .2s ease-in-out;transition:opacity .2s ease-in-out,background-color .2s ease-in-out;}
+.et_mobile_menu li a:hover{background-color:rgba(0,0,0,.03);opacity:.7;}
+.et_mobile_menu{position:absolute;left:0;padding:5%;background:#fff;width:100%;visibility:visible;opacity:1;display:none;z-index:9999;border-top:3px solid #2ea3f2;box-shadow:0 2px 5px rgba(0,0,0,.1);-moz-box-shadow:0 2px 5px rgba(0,0,0,.1);-webkit-box-shadow:0 2px 5px rgba(0,0,0,.1);}
+.et_mobile_menu li a{border-bottom:1px solid rgba(0,0,0,.03);color:#666;padding:10px 5%;display:block;}
+.et_mobile_nav_menu{float:right;display:none;}
+.mobile_menu_bar{position:relative;display:block;line-height:0;}
+.mobile_menu_bar:before{content:"a";font-size:32px;position:relative;left:0;top:0;cursor:pointer;}
+.et_pb_module .mobile_menu_bar:before{top:2px;}
+/*! CSS Used from: Embedded */
+@media only screen and (max-width: 1066px){
+.et-l--header .mobile_menu_bar{display:none!important;}
+}
+/*! CSS Used from: https://casal-las-palmeras-de-canyelles.es/wp-content/et-cache/284313/et-core-unified-284313.min.css?ver=1672167614 */
+a{background:transparent;}
+a:focus{outline:thin dotted;}
+a:active,a:hover{outline:0;}
+img{border:0;}
+@media print{
+*{color:#000!important;text-shadow:none!important;background:transparent!important;box-shadow:none!important;}
+a,a:visited{text-decoration:underline;}
+a[href]:after{content:" (" attr(href) ")";}
+img{page-break-inside:avoid;}
+img{max-width:100%!important;}
+}
+*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+a{color:#428bca;text-decoration:none;}
+a:hover,a:focus{color:#2a6496;text-decoration:underline;}
+a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+img{vertical-align:middle;}
+a{color:#c52d2f;-webkit-transition:color 300ms,background-color 300ms;-moz-transition:color 300ms,background-color 300ms;-o-transition:color 300ms,background-color 300ms;transition:color 300ms,background-color 300ms;}
+a:hover,a:focus{color:#d43133;}
+a:hover,a:focus{color:#111;text-decoration:none;outline:none;}
+a{background:transparent;}
+a:focus{outline:thin dotted;}
+a:active,a:hover{outline:0;}
+img{border:0;}
+@media print{
+*{color:#000!important;text-shadow:none!important;background:transparent!important;box-shadow:none!important;}
+a,a:visited{text-decoration:underline;}
+a[href]:after{content:" (" attr(href) ")";}
+img{page-break-inside:avoid;}
+img{max-width:100%!important;}
+}
+*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+a{color:#428bca;text-decoration:none;}
+a:hover,a:focus{color:#2a6496;text-decoration:underline;}
+a:focus{outline:thin dotted;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px;}
+img{vertical-align:middle;}
+a{color:#c52d2f;-webkit-transition:color 300ms,background-color 300ms;-moz-transition:color 300ms,background-color 300ms;-o-transition:color 300ms,background-color 300ms;transition:color 300ms,background-color 300ms;}
+a:hover,a:focus{color:#d43133;}
+a:hover,a:focus{color:#111;text-decoration:none;outline:none;}
+*,:after,:before{-webkit-box-sizing:inherit;box-sizing:inherit;}
+img{height:auto;max-width:100%;}
+a{cursor:pointer;text-decoration:none;}
+a:hover{color:#363636;}
+img{height:auto;max-width:100%;}
+span{font-style:inherit;font-weight:inherit;}
+*,:after,:before{-webkit-box-sizing:border-box;box-sizing:border-box;margin:0;}
+:focus{outline:none;}
+a{color:#333;}
+a{-webkit-tap-highlight-color:rgba(255,188,13,.08);-webkit-user-select:rgba(255,188,13,.08);-moz-user-select:rgba(255,188,13,.08);-ms-user-select:rgba(255,188,13,.08);user-select:rgba(255,188,13,.08);}
+*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}
+a:hover{cursor:pointer;}
+img{max-width:100%;height:auto;}
+img{-ms-interpolation-mode:bicubic;}
+img{display:inline-block;vertical-align:middle;}
+ul,li{margin:0;padding:0;}
+a{color:#981C36;text-decoration:none;line-height:inherit;}
+a:hover,a:focus{color:#0078a0;}
+a img{border:none;}
+ul{font-size:1rem;line-height:1.6;margin-bottom:1.25rem;list-style-position:outside;font-family:inherit;}
+ul{margin-left:1.1rem;}
+@media print{
+*{background:transparent!important;color:black!important;box-shadow:none!important;text-shadow:none!important;}
+a,a:visited{text-decoration:underline;}
+a[href]:after{content:" (" attr(href) ")";}
+img{page-break-inside:avoid;}
+img{max-width:100%!important;}
+}
+*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+a img{border:none;}
+a:focus{color:#2795b6;}
+ul,li{margin:0;padding:0;font-size:14px;direction:ltr;}
+ul{font-size:14px;line-height:1.6;margin-bottom:17px;list-style-position:outside;list-style-type:none;}
+@media print{
+*{background:transparent!important;color:black!important;box-shadow:none!important;text-shadow:none!important;filter:none!important;-ms-filter:none!important;}
+a,a:visited{text-decoration:underline;}
+a[href]:after{content:" (" attr(href) ")";}
+img{page-break-inside:avoid;}
+img{max-width:100%!important;}
+}
+img{height:auto;}
+img{max-width:100%;}
+img{-ms-interpolation-mode:bicubic;}
+::-moz-selection{background:#717174;color:#fff;}
+::selection{background:#717174;color:#fff;}
+a{-webkit-transition:opacity 0.5s ease;-moz-transition:opacity 0.5s ease;-o-transition:opacity 0.5s ease;transition:opacity 0.5s ease;color:#717174;}
+a:hover{color:#717174;opacity:0.5;}
+a:focus{color:#231F20;}
+*,*:after,*:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+*,*:before,*:after{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;}
+a:hover{cursor:pointer;}
+img{max-width:100%;height:auto;}
+img{-ms-interpolation-mode:bicubic;}
+img{display:inline-block;vertical-align:middle;}
+ul,li{margin:0;padding:0;}
+a{color:#981C36;text-decoration:none;line-height:inherit;}
+a:hover,a:focus{color:#0078a0;}
+a img{border:none;}
+ul{font-size:1rem;line-height:1.6;margin-bottom:1.25rem;list-style-position:outside;font-family:inherit;}
+ul{margin-left:1.1rem;}
+@media print{
+*{background:transparent!important;color:black!important;box-shadow:none!important;text-shadow:none!important;}
+a,a:visited{text-decoration:underline;}
+a[href]:after{content:" (" attr(href) ")";}
+img{page-break-inside:avoid;}
+img{max-width:100%!important;}
+}
+*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+a img{border:none;}
+a:focus{color:#2795b6;}
+ul,li{margin:0;padding:0;font-size:14px;direction:ltr;}
+ul{font-size:14px;line-height:1.6;margin-bottom:17px;list-style-position:outside;list-style-type:none;}
+@media print{
+*{background:transparent!important;color:black!important;box-shadow:none!important;text-shadow:none!important;filter:none!important;-ms-filter:none!important;}
+a,a:visited{text-decoration:underline;}
+a[href]:after{content:" (" attr(href) ")";}
+img{page-break-inside:avoid;}
+img{max-width:100%!important;}
+}
+img{height:auto;}
+img{max-width:100%;}
+img{-ms-interpolation-mode:bicubic;}
+::-moz-selection{background:#717174;color:#fff;}
+::selection{background:#717174;color:#fff;}
+a{-webkit-transition:opacity 0.5s ease;-moz-transition:opacity 0.5s ease;-o-transition:opacity 0.5s ease;transition:opacity 0.5s ease;color:#717174;}
+a:hover{color:#717174;opacity:0.5;}
+a:focus{color:#231F20;}
+*,*:after,*:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+/*! CSS Used from: Embedded */
+.et_mobile_menu li a{color:rgba(255,255,255,0.6);}
+/*! CSS Used from: Embedded */
+.dfh-45 .et-menu-nav .et-menu{flex-direction:column;width:100%;margin-left:0!important;margin-right:0!important;}
+.dfh-45 .et-menu > li{border-radius:3px;flex-direction:column;padding:15px 15px 10px!important;background:rgb(8 1 1 / 10%);margin:10px 20px!important;}
+@media screen and (min-width: 981px){
+.dfh-45 .et_pb_menu__menu{display:block!important;width:100%;}
+.dfh-45 .et_pb_menu__wrap{justify-content:flex-start!important;}
+}
+@media screen and (max-width: 980px){
+.dfh-45 .et_pb_menu__wrap{margin-top:-8px;}
+}
+/*! CSS Used from: Embedded */
+.et_pb_image_0_tb_header{background-color:#000000;margin-top:0px!important;margin-right:0px!important;margin-bottom:0px!important;margin-left:0px!important;width:100%;max-width:100%!important;text-align:left;margin-left:0;}
+.et_pb_image_0_tb_header .et_pb_image_wrap img{max-height:259px;}
+.et_pb_image_0_tb_header .et_pb_image_wrap,.et_pb_image_0_tb_header img{width:100%;}
+.et_pb_menu_0_tb_header.et_pb_menu ul li a{font-family:'Open Sans Condensed',sans-serif;font-weight:700;font-size:24px;color:#FFFFFF!important;line-height:1.1em;}
+.et_pb_menu_0_tb_header.et_pb_menu{background-color:#000000;}
+.et_pb_menu_0_tb_header{margin-top:30px!important;width:100%;}
+.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu{border-color:#E02B20;}
+.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu{background-color:#FFFFFF!important;}
+.et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu a{color:#000000!important;}
+.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap{width:auto;max-width:100%;}
+.et_pb_menu_0_tb_header .et_pb_menu_inner_container>.et_pb_menu__logo-wrap .et_pb_menu__logo img{height:auto;max-height:none;}
+.et_pb_menu_0_tb_header .mobile_nav .mobile_menu_bar:before{color:#FFFFFF;}
+@media only screen and (min-width:981px){
+.et_pb_column_1_tb_header{width:100%!important;margin-right:0!important;}
+.et_pb_menu_0_tb_header.et_pb_menu .et_pb_menu__logo{display:none;}
+}
+@media only screen and (max-width:980px){
+.et_pb_column_1_tb_header{display:flex;flex-wrap:wrap;margin-bottom:0;}
+.et_pb_image_0_tb_header{text-align:center;margin-left:auto;margin-right:auto;}
+.et_pb_menu_0_tb_header.et_pb_menu ul li a{font-size:20px;}
+.et_pb_menu_0_tb_header{margin-top:0px!important;margin-right:30px!important;margin-bottom:0px!important;margin-left:30px!important;}
+.et_pb_menu_0_tb_header.et_pb_menu .et_pb_menu__logo{display:block;padding-bottom:15px;}
+}
+@media only screen and (min-width:768px) and (max-width:980px){
+.et_pb_image_0_tb_header{display:none!important;}
+}
+@media only screen and (max-width:767px){
+.et_pb_column_1_tb_header{display:flex;flex-wrap:wrap;margin-bottom:0;}
+.et_pb_image_0_tb_header{display:none!important;}
+.et_pb_menu_0_tb_header.et_pb_menu ul li a{font-size:18px;}
+.et_pb_menu_0_tb_header.et_pb_menu .et_pb_menu__logo{display:block;padding-bottom:15px;}
+}
+/*! CSS Used fontfaces */
+@font-face{font-family:ETmodules;font-display:block;src:url(//casal-las-palmeras-de-canyelles.es/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot);src:url(//casal-las-palmeras-de-canyelles.es/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.eot?#iefix) format("embedded-opentype"),url(//casal-las-palmeras-de-canyelles.es/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf) format("truetype"),url(//casal-las-palmeras-de-canyelles.es/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff) format("woff"),url(//casal-las-palmeras-de-canyelles.es/wp-content/themes/Divi/core/admin/fonts/modules/all/modules.svg#ETmodules) format("svg");font-weight:400;font-style:normal;}
